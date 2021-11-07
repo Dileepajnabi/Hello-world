@@ -6,6 +6,7 @@ print("Hello World")
 print("To Start With Python ")
 # Write a program to check Even or Odd
 
+#comment
 a= int(input("Enter Number or Check Even or Odd"))
 
 if a%2==0:
@@ -17,5 +18,3 @@ if a%2==0:
     {
       print("This is a Odd Number")
     }
-
-#comment
