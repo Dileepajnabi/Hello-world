@@ -15,6 +15,6 @@ if a%2==0:
   }
   else:
     {
-      print("This is a Odd Number')
+      print("This is a Odd Number")
     }
 
